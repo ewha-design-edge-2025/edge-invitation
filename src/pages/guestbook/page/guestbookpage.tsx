@@ -1,3 +1,7 @@
-export default function GuestbookPage() {
-  return <div>GuestbookPage</div>;
-}
+const GuestBookPage = () => {
+  return (
+    <></>
+  );
+};
+
+export default GuestBookPage;
